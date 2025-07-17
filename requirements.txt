@@ -12,6 +12,7 @@ Kivy-Garden==0.1.5
 kivy_deps.sdl2==0.8.0
 pillow==10.4.0
 Pygments==2.19.2
+pyjnius==1.6.1
 pypiwin32==223
 pywin32==311
 requests==2.32.4
