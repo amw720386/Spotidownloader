@@ -1,6 +1,6 @@
-# Spoti Download
+# SpotiDownload
 
-A VERY simplistic lightweight Spotify playlist downloader for your android device! 
+A VERY simplistic lightweight [Spotify playlist downloader](https://github.com/amw720386/Spotidownloader/releases) for your android device! 
 
 (This is a personal project for mostly personal use, if someone wants features please inquire in the issues tab)
 
